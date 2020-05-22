@@ -1,14 +1,14 @@
 # Site settings
 title: test Jekyll blog
 description: "A minimal blog template, build with Jekyll."
-url: "https://taoyama.github.io/testblog"
+url: "https://taoyama.github.io/blog"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /testblog # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
